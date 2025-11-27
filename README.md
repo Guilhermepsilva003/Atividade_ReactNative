@@ -3,16 +3,13 @@
 Este é um projeto simples desenvolvido em React Native com Expo, cujo objetivo é consumir uma API pública e exibir seus dados em telas navegáveis.
 
 O app utiliza:
-
-React Native
-
-Expo
-
-React Navigation
-
-API pública JSONPlaceholder
+- React Native
+- Expo
+- React Navigation
+- API pública JSONPlaceholder
 
 Estrutura mínima (sem Expo Router)
+
 
 🚀 Funcionalidades
 
