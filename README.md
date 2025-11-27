@@ -17,11 +17,17 @@ Estrutura mínima (sem Expo Router)
 🚀 Funcionalidades
 
 ✔ Tela inicial com botão estilizado
+
 ✔ Navegação entre telas
+
 ✔ Consumo de API pública (JSONPlaceholder)
+
 ✔ Listagem de usuários
+
 ✔ Tela de detalhes de cada usuário
+
 ✔ Explicação do que o app está fazendo
+
 ✔ Layout simples e agradável
 
 📂 Estrutura do Projeto
